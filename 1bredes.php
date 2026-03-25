@@ -44,6 +44,6 @@ if ($imc < 16.00) {
  } elseif ($imc >= 35 && $imc <= 39.9) {
     echo "obesidade severa. \n";
  } else {
-   echo "obesidade muito severa";
+   echo "obesidade muito severa \n";
  }
 ?>
